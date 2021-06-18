@@ -1,0 +1,467 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /users/register           --> latlongwatsapp/routes.UsersRegister (4 handlers)
+[GIN-debug] POST   /latlongwatsappapi/inboundmsg --> latlongwatsapp/routes.IncomingdMsg (4 handlers)
+[GIN-debug] Listening and serving HTTPS on :5050
+2020/11/29 11:26:30 Sending message for app:testrs, to mnumber:919108636711
+2020/11/29 11:26:32 200 OK
+2020/11/29 11:26:32 028bf2e6-76e0-4195-abea-9f3c0a0df8d2
+2020/11/29 11:26:32 {"status":"submitted","messageId":"028bf2e6-76e0-4195-abea-9f3c0a0df8d2"}
+[GIN] 2020/11/29 - 11:26:32 | 200 |  1.270117099s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 11:26:32 | 200 |     901.506µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:05 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 11:27:05 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 11:27:07 200 OK
+2020/11/29 11:27:07 09eb5bb5-89ae-4338-973b-f96be210a0e4
+2020/11/29 11:27:07 {"status":"submitted","messageId":"09eb5bb5-89ae-4338-973b-f96be210a0e4"}
+2020/11/29 11:27:07 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:07 | 200 |     705.806µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:08 200 
+2020/11/29 11:27:08 45f0c46f-90d1-4ab4-9b24-5adba36b4c04
+2020/11/29 11:27:08 {"status":"submitted","messageId":"45f0c46f-90d1-4ab4-9b24-5adba36b4c04"}
+2020/11/29 11:27:08 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 11:27:09 200 
+2020/11/29 11:27:09 0bd975ff-f748-4a0c-be13-615b26528e2e
+2020/11/29 11:27:09 {"status":"submitted","messageId":"0bd975ff-f748-4a0c-be13-615b26528e2e"}
+2020/11/29 11:27:09 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:10 | 200 |     944.095µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 11:27:10 | 200 |     787.316µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:10 200 OK
+2020/11/29 11:27:10 6c0cdf7b-08f1-431b-831c-e87f5923ee1c
+2020/11/29 11:27:10 {"status":"submitted","messageId":"6c0cdf7b-08f1-431b-831c-e87f5923ee1c"}
+2020/11/29 11:27:10 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:11 | 200 |     691.475µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:11 200 OK
+2020/11/29 11:27:11 e41c9704-8013-4307-b08a-de72e7970ec8
+2020/11/29 11:27:11 {"status":"submitted","messageId":"e41c9704-8013-4307-b08a-de72e7970ec8"}
+2020/11/29 11:27:11 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:12 | 200 |     547.619µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:13 200 OK
+2020/11/29 11:27:13 5799fe9b-ee11-4068-a5a2-271a7235d6bc
+2020/11/29 11:27:13 {"status":"submitted","messageId":"5799fe9b-ee11-4068-a5a2-271a7235d6bc"}
+2020/11/29 11:27:13 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:13 | 200 |     569.122µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:14 200 OK
+2020/11/29 11:27:14 d107d091-850b-4e4f-b48e-148f29170707
+2020/11/29 11:27:14 {"status":"submitted","messageId":"d107d091-850b-4e4f-b48e-148f29170707"}
+2020/11/29 11:27:14 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:14 | 200 |     817.306µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:15 200 OK
+2020/11/29 11:27:15 51797dee-2358-499f-9fb1-290f9878f727
+2020/11/29 11:27:15 {"status":"submitted","messageId":"51797dee-2358-499f-9fb1-290f9878f727"}
+2020/11/29 11:27:15 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:27:15 | 200 |     703.039µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 11:27:16 | 200 |     879.217µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:27:16 200 
+2020/11/29 11:27:16 2e07a66a-69ad-4eba-9c90-d51758548ca1
+2020/11/29 11:27:16 {"status":"submitted","messageId":"2e07a66a-69ad-4eba-9c90-d51758548ca1"}
+2020/11/29 11:28:04 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:28:05 | 200 |     732.199µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:28:05 200 
+2020/11/29 11:28:05 bd70d80b-b9ad-4663-bbba-d67d7213df8e
+2020/11/29 11:28:05 {"status":"submitted","messageId":"bd70d80b-b9ad-4663-bbba-d67d7213df8e"}
+2020/11/29 11:28:05 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:28:06 | 200 |     823.705µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:28:06 200 
+2020/11/29 11:28:06 9b646945-8185-4808-a81a-2bba39b3ea6e
+2020/11/29 11:28:06 {"status":"submitted","messageId":"9b646945-8185-4808-a81a-2bba39b3ea6e"}
+2020/11/29 11:28:06 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:28:07 | 200 |     691.301µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:28:07 200 OK
+2020/11/29 11:28:07 d56e67af-d439-4927-a872-48ec4a6fb170
+2020/11/29 11:28:07 {"status":"submitted","messageId":"d56e67af-d439-4927-a872-48ec4a6fb170"}
+2020/11/29 11:28:07 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 11:28:08 | 200 |     805.211µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 11:28:08 200 
+2020/11/29 11:28:08 584103a8-9bfd-4e7d-81f7-15f14dc3fca5
+2020/11/29 11:28:08 {"status":"submitted","messageId":"584103a8-9bfd-4e7d-81f7-15f14dc3fca5"}
+[GIN] 2020/11/29 - 11:28:08 | 200 |          1m2s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 12:48:32 Sending message for app:testrs, to mnumber:919591033785
+2020/11/29 12:48:33 200 
+2020/11/29 12:48:33 c5156b8c-34cc-4bc6-afd8-6d3c33b3f9d1
+2020/11/29 12:48:33 {"status":"submitted","messageId":"c5156b8c-34cc-4bc6-afd8-6d3c33b3f9d1"}
+[GIN] 2020/11/29 - 12:48:33 | 200 |  1.275237496s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 12:48:34 | 200 |     759.395µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 13:36:21 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 13:36:22 200 
+2020/11/29 13:36:22 6b329dae-de16-4b91-ba12-4d8b6ae2a78f
+2020/11/29 13:36:22 {"status":"submitted","messageId":"6b329dae-de16-4b91-ba12-4d8b6ae2a78f"}
+[GIN] 2020/11/29 - 13:36:22 | 200 |  1.330609038s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 13:36:22 | 200 |     665.275µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 14:39:01 | 200 |     767.938µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:39:01 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 14:39:01 Sending message for app:testrs, to mnumber:918401773101
+2020/11/29 14:39:03 200 OK
+2020/11/29 14:39:03 8d53c309-e238-49cc-a28d-65076f347420
+2020/11/29 14:39:03 {"status":"submitted","messageId":"8d53c309-e238-49cc-a28d-65076f347420"}
+2020/11/29 14:39:03 Sending message for app:testrs, to mnumber:918401773101
+[GIN] 2020/11/29 - 14:39:03 | 200 |     576.017µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 14:39:04 | 200 |     843.969µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:39:04 200 
+2020/11/29 14:39:04 60d17c63-5b86-43ac-89ef-472970e5aecf
+2020/11/29 14:39:04 {"status":"submitted","messageId":"60d17c63-5b86-43ac-89ef-472970e5aecf"}
+[GIN] 2020/11/29 - 14:39:04 | 200 |  2.435321306s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:42:03 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 14:42:03 Sending message for app:testrs, to mnumber:918401773101
+2020/11/29 14:42:04 200 
+2020/11/29 14:42:04 ea109c36-e397-4e8a-b4ae-09264401011c
+2020/11/29 14:42:04 {"status":"submitted","messageId":"ea109c36-e397-4e8a-b4ae-09264401011c"}
+2020/11/29 14:42:04 Sending message for app:testrs, to mnumber:918401773101
+[GIN] 2020/11/29 - 14:42:04 | 200 |     588.033µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:42:05 200 OK
+2020/11/29 14:42:05 3df16d3b-ce11-4a41-84fc-714bce1c2e30
+2020/11/29 14:42:05 {"status":"submitted","messageId":"3df16d3b-ce11-4a41-84fc-714bce1c2e30"}
+[GIN] 2020/11/29 - 14:42:05 | 200 |  2.471492842s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 14:42:05 | 200 |     371.276µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:42:57 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 14:42:57 Sending message for app:testrs, to mnumber:918401773101
+2020/11/29 14:42:58 200 
+2020/11/29 14:42:58 7ba8e5be-9a49-40bb-aeb8-023a689233c6
+2020/11/29 14:42:58 {"status":"submitted","messageId":"7ba8e5be-9a49-40bb-aeb8-023a689233c6"}
+2020/11/29 14:42:58 Sending message for app:testrs, to mnumber:918401773101
+[GIN] 2020/11/29 - 14:42:58 | 200 |     662.238µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:43:00 200 OK
+2020/11/29 14:43:00 f9a4dcdc-ca1f-42dc-be12-568452081e63
+2020/11/29 14:43:00 {"status":"submitted","messageId":"f9a4dcdc-ca1f-42dc-be12-568452081e63"}
+2020/11/29 14:43:00 Sending message for app:testrs, to mnumber:918401773101
+[GIN] 2020/11/29 - 14:43:00 | 200 |     410.038µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:43:01 200 
+2020/11/29 14:43:01 0c7d30bd-0367-4c8e-bd21-e3bddec27d2f
+2020/11/29 14:43:01 {"status":"submitted","messageId":"0c7d30bd-0367-4c8e-bd21-e3bddec27d2f"}
+2020/11/29 14:43:01 Sending message for app:testrs, to mnumber:918401773101
+[GIN] 2020/11/29 - 14:43:01 | 200 |     406.328µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 14:43:02 200 
+2020/11/29 14:43:02 d4c11a66-63c2-4bf0-ac66-c9822a5ccd4b
+2020/11/29 14:43:02 {"status":"submitted","messageId":"d4c11a66-63c2-4bf0-ac66-c9822a5ccd4b"}
+[GIN] 2020/11/29 - 14:43:02 | 200 |  5.338981169s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 14:43:02 | 200 |     492.641µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:17:24 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:17:25 200 OK
+2020/11/29 19:17:25 890bca45-710f-47f3-9e21-749221535a6c
+2020/11/29 19:17:25 {"status":"submitted","messageId":"890bca45-710f-47f3-9e21-749221535a6c"}
+[GIN] 2020/11/29 - 19:17:25 | 200 |     948.506µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:17:39 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 19:17:39 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:17:40 | 200 |     868.358µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:17:40 200 
+2020/11/29 19:17:40 0d377352-6db8-4242-9449-b6ceb8528f4c
+2020/11/29 19:17:40 {"status":"submitted","messageId":"0d377352-6db8-4242-9449-b6ceb8528f4c"}
+2020/11/29 19:17:40 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:17:41 200 
+2020/11/29 19:17:41 b4b363e3-a9cd-4134-b323-ce40dbea10f0
+2020/11/29 19:17:41 {"status":"submitted","messageId":"b4b363e3-a9cd-4134-b323-ce40dbea10f0"}
+2020/11/29 19:17:41 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:17:41 | 200 |      758.69µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 19:17:43 | 200 |     796.685µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:17:43 200 OK
+2020/11/29 19:17:43 6cdfa48e-ed6e-4d3a-919c-cfd61fa400df
+2020/11/29 19:17:43 {"status":"submitted","messageId":"6cdfa48e-ed6e-4d3a-919c-cfd61fa400df"}
+[GIN] 2020/11/29 - 19:17:43 | 200 |  3.641188878s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:11 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 19:18:11 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:12 | 200 |     822.636µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:13 200 
+2020/11/29 19:18:13 dba55f10-4c8b-4099-8833-582ba16c0c85
+2020/11/29 19:18:13 {"status":"submitted","messageId":"dba55f10-4c8b-4099-8833-582ba16c0c85"}
+2020/11/29 19:18:13 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:14 | 200 |     661.609µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:14 200 OK
+2020/11/29 19:18:14 2f361093-df22-43dc-965a-febffa8d3fb8
+2020/11/29 19:18:14 {"status":"submitted","messageId":"2f361093-df22-43dc-965a-febffa8d3fb8"}
+2020/11/29 19:18:30 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 19:18:31 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:18:32 200 
+2020/11/29 19:18:32 231472c9-cee1-4acd-b89e-693134301c97
+2020/11/29 19:18:32 {"status":"submitted","messageId":"231472c9-cee1-4acd-b89e-693134301c97"}
+2020/11/29 19:18:32 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:32 | 200 |     724.738µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 19:18:33 | 200 |     894.612µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:33 200 OK
+2020/11/29 19:18:33 97bb5277-343b-4afc-93bf-77ec31d4a7ca
+2020/11/29 19:18:33 {"status":"submitted","messageId":"97bb5277-343b-4afc-93bf-77ec31d4a7ca"}
+2020/11/29 19:18:33 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:18:34 200 
+2020/11/29 19:18:34 0917b4de-197e-4d4f-9b76-b8b5995b8243
+2020/11/29 19:18:34 {"status":"submitted","messageId":"0917b4de-197e-4d4f-9b76-b8b5995b8243"}
+2020/11/29 19:18:34 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:34 | 200 |     760.913µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 19:18:35 | 200 |     675.885µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:35 200 OK
+2020/11/29 19:18:35 7a83ea27-6374-4222-999c-a24862220a90
+2020/11/29 19:18:35 {"status":"submitted","messageId":"7a83ea27-6374-4222-999c-a24862220a90"}
+[GIN] 2020/11/29 - 19:18:35 | 200 |  5.112940405s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:38 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:39 | 200 |     735.538µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:39 200 
+2020/11/29 19:18:39 8040e004-54cf-4fc1-b883-1f56121471c7
+2020/11/29 19:18:39 {"status":"submitted","messageId":"8040e004-54cf-4fc1-b883-1f56121471c7"}
+2020/11/29 19:18:39 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:18:41 200 
+2020/11/29 19:18:41 dbe8ad14-fe39-4e6f-b2db-3a275dd2d08d
+2020/11/29 19:18:41 {"status":"submitted","messageId":"dbe8ad14-fe39-4e6f-b2db-3a275dd2d08d"}
+2020/11/29 19:18:41 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:41 | 200 |      740.36µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 19:18:42 | 200 |     617.063µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:42 200 
+2020/11/29 19:18:42 af9d8582-9454-4eda-a504-895402a98f6f
+2020/11/29 19:18:42 {"status":"submitted","messageId":"af9d8582-9454-4eda-a504-895402a98f6f"}
+2020/11/29 19:18:42 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:43 | 200 |     730.734µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:43 200 OK
+2020/11/29 19:18:43 edab5994-a1cc-4c96-9f44-ed6f79da3403
+2020/11/29 19:18:43 {"status":"submitted","messageId":"edab5994-a1cc-4c96-9f44-ed6f79da3403"}
+[GIN] 2020/11/29 - 19:18:43 | 200 | 31.707319658s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:54 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 19:18:54 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:55 | 200 |     838.379µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:56 200 
+2020/11/29 19:18:56 989f82b0-ef9d-4475-9623-7f3cd6efd94e
+2020/11/29 19:18:56 {"status":"submitted","messageId":"989f82b0-ef9d-4475-9623-7f3cd6efd94e"}
+2020/11/29 19:18:56 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:57 | 200 |     824.241µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:57 200 OK
+2020/11/29 19:18:57 280a654d-c600-4056-af0d-8452c98f4019
+2020/11/29 19:18:57 {"status":"submitted","messageId":"280a654d-c600-4056-af0d-8452c98f4019"}
+2020/11/29 19:18:57 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:18:58 | 200 |     908.908µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:18:58 200 
+2020/11/29 19:18:58 af82b12e-1024-4946-83fb-14515546ac1d
+2020/11/29 19:18:58 {"status":"submitted","messageId":"af82b12e-1024-4946-83fb-14515546ac1d"}
+2020/11/29 19:18:58 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:18:59 200 
+2020/11/29 19:18:59 3aa32314-92c6-4328-9fb7-2fe85b585922
+2020/11/29 19:18:59 {"status":"submitted","messageId":"3aa32314-92c6-4328-9fb7-2fe85b585922"}
+[GIN] 2020/11/29 - 19:18:59 | 200 |         1m35s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 19:18:59 | 200 |     741.829µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:04 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:05 | 200 |    1.080633ms |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:05 200 OK
+2020/11/29 19:19:05 8f7fba04-3f1e-477e-aa5a-812865b91bfb
+2020/11/29 19:19:05 {"status":"submitted","messageId":"8f7fba04-3f1e-477e-aa5a-812865b91bfb"}
+2020/11/29 19:19:05 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:06 | 200 |     973.324µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:06 200 OK
+2020/11/29 19:19:06 dadb7adb-e9ce-4454-ac54-404eca37d75a
+2020/11/29 19:19:06 {"status":"submitted","messageId":"dadb7adb-e9ce-4454-ac54-404eca37d75a"}
+2020/11/29 19:19:06 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:07 | 200 |     971.736µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:07 200 OK
+2020/11/29 19:19:07 292dbc79-1c5d-4df7-bf0a-b62c839abf79
+2020/11/29 19:19:07 {"status":"submitted","messageId":"292dbc79-1c5d-4df7-bf0a-b62c839abf79"}
+2020/11/29 19:19:07 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:08 | 200 |     955.025µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:09 200 OK
+2020/11/29 19:19:09 a90f63b4-90cf-4ac2-9abf-4719f824a24f
+2020/11/29 19:19:09 {"status":"submitted","messageId":"a90f63b4-90cf-4ac2-9abf-4719f824a24f"}
+[GIN] 2020/11/29 - 19:19:09 | 200 | 14.393186476s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:17 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/29 19:19:17 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:18 | 200 |     798.326µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:18 200 OK
+2020/11/29 19:19:18 d64a45c6-2428-4e42-b089-5c79eb8bbaab
+2020/11/29 19:19:18 {"status":"submitted","messageId":"d64a45c6-2428-4e42-b089-5c79eb8bbaab"}
+2020/11/29 19:19:18 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:19 | 200 |      943.33µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:19 200 
+2020/11/29 19:19:19 62b97e84-72fa-4deb-b3b5-753a3b22f97c
+2020/11/29 19:19:19 {"status":"submitted","messageId":"62b97e84-72fa-4deb-b3b5-753a3b22f97c"}
+2020/11/29 19:19:19 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:20 | 200 |     960.898µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:20 200 OK
+2020/11/29 19:19:20 55bcfae1-6feb-418f-ba5a-3e69fbda4705
+2020/11/29 19:19:20 {"status":"submitted","messageId":"55bcfae1-6feb-418f-ba5a-3e69fbda4705"}
+2020/11/29 19:19:20 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+2020/11/29 19:19:21 200 
+2020/11/29 19:19:21 17f78e60-deca-42ae-880c-7d9a56da021c
+2020/11/29 19:19:21 {"status":"submitted","messageId":"17f78e60-deca-42ae-880c-7d9a56da021c"}
+2020/11/29 19:19:21 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:22 | 200 |     820.927µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:23 200 OK
+2020/11/29 19:19:23 b9a38a98-5a33-4c6e-96fe-18bfb7da61fc
+2020/11/29 19:19:23 {"status":"submitted","messageId":"b9a38a98-5a33-4c6e-96fe-18bfb7da61fc"}
+2020/11/29 19:19:23 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:23 | 200 |    3.133738ms |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:24 200 OK
+2020/11/29 19:19:24 48d06c5d-efa7-410f-b5b3-e764696b0352
+2020/11/29 19:19:24 {"status":"submitted","messageId":"48d06c5d-efa7-410f-b5b3-e764696b0352"}
+2020/11/29 19:19:24 Sending message for app:DELLRETAILSTORES, to mnumber:919108636711
+[GIN] 2020/11/29 - 19:19:24 | 200 |      687.11µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 19:19:25 | 200 |     750.991µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 19:19:25 200 
+2020/11/29 19:19:25 69f433f3-483e-41e9-9da4-cbb2c0afe675
+2020/11/29 19:19:25 {"status":"submitted","messageId":"69f433f3-483e-41e9-9da4-cbb2c0afe675"}
+[GIN] 2020/11/29 - 19:19:25 | 200 |  8.185358929s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 20:46:50 | 200 |     715.873µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 20:46:51 Sending message for app:testrs, to mnumber:917204911814
+2020/11/29 20:46:52 200 OK
+2020/11/29 20:46:52 e5326564-d15f-4d5e-aa1e-24a87c0475f3
+2020/11/29 20:46:52 {"status":"submitted","messageId":"e5326564-d15f-4d5e-aa1e-24a87c0475f3"}
+[GIN] 2020/11/29 - 20:46:52 | 200 |  1.205570133s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 20:46:52 | 200 |      821.64µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 22:21:01 | 200 |     805.844µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 22:21:01 Sending message for app:testrs, to mnumber:918660015181
+2020/11/29 22:21:02 200 OK
+2020/11/29 22:21:02 4520d482-5c89-405b-a0e1-0f068be6a925
+2020/11/29 22:21:02 {"status":"submitted","messageId":"4520d482-5c89-405b-a0e1-0f068be6a925"}
+[GIN] 2020/11/29 - 22:21:02 | 200 |  1.236651851s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/29 - 22:21:02 | 200 |     879.139µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/29 22:21:15 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+[GIN] 2020/11/29 - 22:21:15 | 200 |   13.541704ms |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 08:22:23 | 200 |     720.286µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 08:22:23 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/30 08:22:23 Sending message for app:testrs, to mnumber:919886379983
+2020/11/30 08:22:25 200 
+2020/11/30 08:22:25 af5a9f96-bd41-41a9-b9e3-5e67ddd768cf
+2020/11/30 08:22:25 {"status":"submitted","messageId":"af5a9f96-bd41-41a9-b9e3-5e67ddd768cf"}
+2020/11/30 08:22:25 Sending message for app:testrs, to mnumber:919886379983
+[GIN] 2020/11/30 - 08:22:25 | 200 |     795.005µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 08:22:26 200 OK
+2020/11/30 08:22:26 c3a315e4-83f0-4066-8344-a51588be1b9a
+2020/11/30 08:22:26 {"status":"submitted","messageId":"c3a315e4-83f0-4066-8344-a51588be1b9a"}
+2020/11/30 08:22:26 Sending message for app:testrs, to mnumber:919886379983
+[GIN] 2020/11/30 - 08:22:26 | 200 |     653.517µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 08:22:27 200 
+2020/11/30 08:22:27 295f1027-6d9b-485d-b787-fed321d0c5e6
+2020/11/30 08:22:27 {"status":"submitted","messageId":"295f1027-6d9b-485d-b787-fed321d0c5e6"}
+[GIN] 2020/11/30 - 08:22:27 | 200 |  4.165445312s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 08:22:27 | 200 |     999.905µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 10:43:44 | 200 |     970.579µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 10:43:44 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/11/30 10:44:07 Sending message for app:testrs, to mnumber:919901369500
+2020/11/30 10:44:08 200 OK
+2020/11/30 10:44:08 d46935ee-5fc2-4153-bf12-0e7a28206c34
+2020/11/30 10:44:08 {"status":"submitted","messageId":"d46935ee-5fc2-4153-bf12-0e7a28206c34"}
+2020/11/30 10:44:08 Sending message for app:testrs, to mnumber:919901369500
+[GIN] 2020/11/30 - 10:44:08 | 200 |     715.524µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 10:44:09 200 OK
+2020/11/30 10:44:09 c57806c8-8793-4ccf-abbb-9fb1d155701e
+2020/11/30 10:44:09 {"status":"submitted","messageId":"c57806c8-8793-4ccf-abbb-9fb1d155701e"}
+[GIN] 2020/11/30 - 10:44:09 | 200 | 25.054588434s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 10:44:10 | 200 |     692.142µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 15:44:46 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+[GIN] 2020/11/30 - 15:44:46 | 200 |  128.986163ms |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:48:46 | 200 |     936.349µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:50:00 | 200 |     809.798µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:50:40 | 200 |     746.965µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:54:34 | 200 |    1.184111ms |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:54:41 | 200 |     663.455µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:55:29 | 200 |     829.673µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 18:55:59 | 200 |     757.308µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:21 | 200 |      682.75µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:25 | 200 |     747.698µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:27 | 200 |     749.751µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:39 | 200 |     978.193µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:41 | 200 |     722.319µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:42 | 200 |     734.916µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:42 | 200 |     817.003µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:43 | 200 |     806.456µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:43 | 200 |     681.805µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:44 | 200 |     743.645µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:46 | 200 |     817.839µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:47 | 200 |     735.972µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:48 | 200 |     913.587µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/11/30 - 19:02:49 | 200 |     660.684µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/11/30 21:26:18 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+[GIN] 2020/11/30 - 21:26:18 | 200 |   35.136144ms |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 05:12:50 | 404 |       5.854µs |  167.248.133.40 | GET      "/"
+[GIN] 2020/12/01 - 08:56:56 | 200 |     743.748µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 08:56:57 Sending message for app:testrs, to mnumber:917897277595
+2020/12/01 08:56:58 200 OK
+2020/12/01 08:56:58 ba0a10a7-84b6-4817-a9d3-1a756d75632b
+2020/12/01 08:56:58 {"status":"submitted","messageId":"ba0a10a7-84b6-4817-a9d3-1a756d75632b"}
+[GIN] 2020/12/01 - 08:56:58 | 200 |     700.957µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 08:57:13 Sending message for app:testrs, to mnumber:917897277595
+2020/12/01 08:57:14 200 OK
+2020/12/01 08:57:14 0fca26c1-1c3f-464f-aba0-922d7fc2f5c8
+2020/12/01 08:57:14 {"status":"submitted","messageId":"0fca26c1-1c3f-464f-aba0-922d7fc2f5c8"}
+2020/12/01 08:57:14 Sending message for app:testrs, to mnumber:917897277595
+[GIN] 2020/12/01 - 08:57:14 | 200 |     677.309µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 08:57:15 200 OK
+2020/12/01 08:57:15 b0a8fa35-2a4c-428d-aa84-8ba900cc1fee
+2020/12/01 08:57:15 {"status":"submitted","messageId":"b0a8fa35-2a4c-428d-aa84-8ba900cc1fee"}
+[GIN] 2020/12/01 - 08:57:15 | 200 | 18.264703088s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 08:57:15 | 200 |     654.115µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 08:57:50 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/12/01 08:57:51 Sending message for app:testrs, to mnumber:917897277595
+[GIN] 2020/12/01 - 08:57:52 | 200 |     682.746µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 08:57:52 200 OK
+2020/12/01 08:57:52 0ba3d348-9f67-4115-ba51-f3f02c6c6232
+2020/12/01 08:57:52 {"status":"submitted","messageId":"0ba3d348-9f67-4115-ba51-f3f02c6c6232"}
+2020/12/01 08:57:52 Sending message for app:testrs, to mnumber:917897277595
+2020/12/01 08:57:53 200 OK
+2020/12/01 08:57:53 2594ec60-850c-4533-83d4-92f2f3889de9
+2020/12/01 08:57:53 {"status":"submitted","messageId":"2594ec60-850c-4533-83d4-92f2f3889de9"}
+2020/12/01 08:57:53 Sending message for app:testrs, to mnumber:917897277595
+[GIN] 2020/12/01 - 08:57:53 | 200 |     623.618µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 08:57:54 | 200 |     614.914µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 08:57:54 200 
+2020/12/01 08:57:54 03a8e8e9-d2fe-4895-aa48-6dae371ed975
+2020/12/01 08:57:54 {"status":"submitted","messageId":"03a8e8e9-d2fe-4895-aa48-6dae371ed975"}
+2020/12/01 08:57:54 Sending message for app:testrs, to mnumber:917897277595
+2020/12/01 08:57:56 200 
+2020/12/01 08:57:56 00e2a66c-63d8-441d-82d4-45254bed24ad
+2020/12/01 08:57:56 {"status":"submitted","messageId":"00e2a66c-63d8-441d-82d4-45254bed24ad"}
+[GIN] 2020/12/01 - 08:57:56 | 200 |  5.339156592s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 08:57:56 | 200 |     595.565µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 10:33:31 | 200 |     738.546µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 10:33:32 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+[GIN] 2020/12/01 - 10:33:32 | 200 |   25.716419ms |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 10:33:33 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/12/01 10:33:33 Sending message for app:testrs, to mnumber:919448317039
+2020/12/01 10:33:34 200 OK
+2020/12/01 10:33:34 4393e289-1485-4992-a653-042c23fadef1
+2020/12/01 10:33:34 {"status":"submitted","messageId":"4393e289-1485-4992-a653-042c23fadef1"}
+2020/12/01 10:33:34 Sending message for app:testrs, to mnumber:919448317039
+[GIN] 2020/12/01 - 10:33:34 | 200 |     922.534µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 10:33:35 200 OK
+2020/12/01 10:33:35 93919272-f6ba-4faf-a42b-a8c907f7dff2
+2020/12/01 10:33:35 {"status":"submitted","messageId":"93919272-f6ba-4faf-a42b-a8c907f7dff2"}
+[GIN] 2020/12/01 - 10:33:35 | 200 |  2.388419908s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 10:33:35 | 200 |     583.768µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 11:20:00 | 200 |     892.299µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 11:20:00 | 200 |      627.13µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 11:20:01 | 200 |     696.342µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 11:20:01 | 200 |     650.494µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 13:45:44 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+2020/12/01 13:45:51 Sending message for app:testrs, to mnumber:919886957945
+2020/12/01 13:45:53 200 OK
+2020/12/01 13:45:53 87d38587-0423-483b-8497-9a0c47a6a015
+2020/12/01 13:45:53 {"status":"submitted","messageId":"87d38587-0423-483b-8497-9a0c47a6a015"}
+2020/12/01 13:45:53 Sending message for app:testrs, to mnumber:919886957945
+[GIN] 2020/12/01 - 13:45:53 | 200 |     674.535µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 13:45:54 | 200 |     867.158µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 13:45:55 200 
+2020/12/01 13:45:55 23afea5c-2210-41ad-9ba4-4c65057b968e
+2020/12/01 13:45:55 {"status":"submitted","messageId":"23afea5c-2210-41ad-9ba4-4c65057b968e"}
+[GIN] 2020/12/01 - 13:45:55 | 200 | 10.910624219s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 15:34:33 --------------***Error in method-welcomenotefinder > finding welcome note query-----*******
+[GIN] 2020/12/01 - 15:34:33 | 200 |   23.914079ms |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 16:23:32 | 200 |     720.359µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 16:24:00 | 200 |     697.697µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 16:24:00 | 200 |     715.178µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 16:24:01 | 200 |     766.198µs |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 16:24:25 Sending message for app:rrstest, to mnumber:919480060262
+[GIN] 2020/12/01 - 16:24:26 | 200 |     703.138µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 16:24:26 200 
+2020/12/01 16:24:26 4a1ed9a8-46f5-4a9b-8da1-5f7e2855cd6a
+2020/12/01 16:24:26 {"status":"submitted","messageId":"4a1ed9a8-46f5-4a9b-8da1-5f7e2855cd6a"}
+2020/12/01 16:24:26 Sending message for app:rrstest, to mnumber:919480060262
+2020/12/01 16:24:27 200 
+2020/12/01 16:24:27 0b401792-f3ba-43c3-805d-e273862cec22
+2020/12/01 16:24:27 {"status":"submitted","messageId":"0b401792-f3ba-43c3-805d-e273862cec22"}
+2020/12/01 16:24:27 Sending message for app:rrstest, to mnumber:919480060262
+[GIN] 2020/12/01 - 16:24:28 | 200 |     669.655µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 16:24:29 200 OK
+2020/12/01 16:24:29 c907886a-868e-4a93-96a9-5215cd28eb1c
+2020/12/01 16:24:29 {"status":"submitted","messageId":"c907886a-868e-4a93-96a9-5215cd28eb1c"}
+2020/12/01 16:24:29 Sending message for app:rrstest, to mnumber:919480060262
+[GIN] 2020/12/01 - 16:24:29 | 200 |     364.599µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
+2020/12/01 16:24:30 200 OK
+2020/12/01 16:24:30 55d064bb-7f2a-4f23-9c81-1e1daa5d3e60
+2020/12/01 16:24:30 {"status":"submitted","messageId":"55d064bb-7f2a-4f23-9c81-1e1daa5d3e60"}
+[GIN] 2020/12/01 - 16:24:30 | 200 |  5.062905567s |  34.202.224.208 | POST     "/latlongwatsappapi/inboundmsg"
+[GIN] 2020/12/01 - 16:24:30 | 200 |     790.571µs |    52.66.99.126 | POST     "/latlongwatsappapi/inboundmsg"
