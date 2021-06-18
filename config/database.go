@@ -35,6 +35,6 @@ func (b *Severconfig) Assignserver() (port string) {
 	// b.port = "5050"
 
 	// development
-	b.port = "3000"
+	b.port = "5050"
 	return b.port
 }
